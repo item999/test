@@ -34,3 +34,14 @@ Width = int(input("Enter Width :"))
 area = Length * Width
 
 print(area)
+
+
+একজন শিক্ষাথী পরিক্ষা উওীণ হবে কিনা তা চেক করার জন্য একটি পোগ্রাম লিখুন । শিক্ষাথী  পাস করবে যদি তাদের স্কোর ৩৩ এর  বেশি বা সামান হয় এবং তাদের উপস্থিতি ৭৫% এর বেশি হয়।
+হিন্টঃ >= নাকি <= কোনটি কাজে লাগবে?
+
+Anas_Number = 60
+Anas_Attendance = 1
+if Anas_Number >= 33 and Anas_Attendance >= 0.75:
+    print("you have passed")
+else:
+    print("you Have Unpassed")    
