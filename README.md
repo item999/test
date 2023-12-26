@@ -27,3 +27,10 @@ x=float(input("Enter your name :"))
 y=float(input("Enter your name :"))
 sum = x+y
 print(sum)
+
+একটি পোগ্রাম লিখুন যা একটি আয়তখেত্রের দৈঘ্য এবং প্রস্থ  ইনপুট নিয়ে একটি হিসাব কর
+Length = int(input("Enter Length :"))
+Width = int(input("Enter Width :"))
+area = Length * Width
+
+print(area)
