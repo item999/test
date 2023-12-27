@@ -44,10 +44,9 @@ Anas_Attendance = 1
 if Anas_Number >= 33 and Anas_Attendance >= 0.75:
     print("you have passed")
 else:
-    print("you Have Unpassed") 
+    print("you Have failed") 
 
 মডুলাস অপারেটার (%) ব্যবহার করে প্রদত্ত সংখ্যাটি জোড় বা বিজোড়  কিনা তা পরিখ্যা করার জন্য একটি পগ্রাম লিখুন
-
 হিন্টঃ ৬ জোড়, কারণ  ২ দিয়ে নিঃশেষে বিভাজ্য।
 
 
