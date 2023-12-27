@@ -41,7 +41,7 @@ print(area)
 
 Anas_Number = 60
 Anas_Attendance = 1
-if Anas_Number >= 33 and Anas_Attendance >= 0.75:
+if Anas_Number >= 33 and Anas_Attendance  0.75:
     print("you have passed")
 else:
     print("you Have failed") 
