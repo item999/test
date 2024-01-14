@@ -54,4 +54,27 @@ number = int(input("Enter Number : "))
 if number % 2 == 0:
     print("true")
 else:
-    print("false")    
+    print("false")   
+                    5 .5 
+#1.
+i = 0
+for i in range(i,101):
+    print(i)
+#2.
+for num in range(2, 101, 2):
+    print(num)
+#3.
+sum= 0
+
+for num in range(1, 101):
+    sum += num
+
+print(f"{sum}")
+
+
+
+
+
+
+
+    
